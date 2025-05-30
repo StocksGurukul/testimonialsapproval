@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sample1",
+    "name": "Sample User",
+    "location": "Sample City",
+    "course": "Sample Course",
+    "rating": 5,
+    "text": "This is a sample testimonial",
+    "approved": true
+  }
+]
