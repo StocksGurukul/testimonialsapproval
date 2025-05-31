@@ -47,5 +47,18 @@
     "approved": false,
     "createdAt": "2025-05-31T06:39:34.771Z",
     "updatedAt": "2025-05-31T06:39:34.771Z"
+  },
+  {
+    "id": "1748674072856",
+    "name": "chips",
+    "location": "Ludhiana",
+    "course": "The Great Trader Program",
+    "rating": 4,
+    "text": " n chgchgc",
+    "email": "kashishbhasin6@gmail.com",
+    "gender": "male",
+    "approved": false,
+    "createdAt": "2025-05-31T06:47:52.856Z",
+    "updatedAt": "2025-05-31T06:47:52.856Z"
   }
 ]
