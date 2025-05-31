@@ -22,5 +22,17 @@
     "approved": false,
     "createdAt": "2025-05-31T06:26:20.354Z",
     "updatedAt": "2025-05-31T06:26:20.354Z"
+  },
+  {
+    "id": "1748672782910",
+    "name": "Kashish ",
+    "location": "Ludhiana",
+    "course": "Stock Market Basics",
+    "rating": 4,
+    "text": "njhvjhvhjvjhv",
+    "email": "kashishbhasin6@gmail.com",
+    "approved": false,
+    "createdAt": "2025-05-31T06:26:22.910Z",
+    "updatedAt": "2025-05-31T06:26:22.910Z"
   }
 ]
