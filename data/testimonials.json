@@ -10,5 +10,18 @@
     "approved": true,
     "createdAt": "2025-05-30T07:11:42.209Z",
     "updatedAt": "2025-05-30T07:12:09.357Z"
+  },
+  {
+    "id": "1749713381892",
+    "name": "Kashish Bhasin",
+    "location": "Ludhiana",
+    "course": "The Great Trader Program",
+    "rating": 4,
+    "text": "jnjknkjnkjnk",
+    "email": "kashishbhasin6@gmail.com",
+    "gender": "male",
+    "approved": false,
+    "createdAt": "2025-06-12T07:29:41.892Z",
+    "updatedAt": "2025-06-12T07:29:41.892Z"
   }
 ]
