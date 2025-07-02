@@ -10,43 +10,5 @@
     "approved": true,
     "createdAt": "2025-05-30T07:11:42.209Z",
     "updatedAt": "2025-05-30T07:12:09.357Z"
-  },
-  {
-    "id": "1749713381892",
-    "name": "Kashish Bhasin",
-    "location": "Ludhiana",
-    "course": "The Great Trader Program",
-    "rating": 4,
-    "text": "jnjknkjnkjnk",
-    "email": "kashishbhasin6@gmail.com",
-    "gender": "male",
-    "approved": false,
-    "createdAt": "2025-06-12T07:29:41.892Z",
-    "updatedAt": "2025-06-12T07:29:41.892Z"
-  },
-  {
-    "id": "1751461236947",
-    "name": "Hridyansh Malik ",
-    "location": "Ludhiana ",
-    "course": "The Great Trader Program",
-    "rating": 5,
-    "text": "Best place to earn while you learn simultaneously. The Great Trader Program enabled me to leverage my knowledge and skills practically.\nAll thanks to Nischay sir for their belief in students, a great teacher and mentor, of course!",
-    "email": "hridyanshmalik78@gmail.com",
-    "gender": "male",
-    "approved": false,
-    "createdAt": "2025-07-02T13:00:36.947Z",
-    "updatedAt": "2025-07-02T13:00:36.947Z"
-  },
-  {
-    "id": "1751461379549",
-    "name": "Hridyansh Malik ",
-    "location": "Ludhiana ",
-    "course": "The Great Trader Program",
-    "rating": 5,
-    "text": "Best place to earn while you learn simultaneously. The Great Trader Program enabled me to leverage my knowledge and skills practically. All thanks to Nischey sir for their belief in students, a great teacher and mentor, of course!",
-    "gender": "male",
-    "approved": false,
-    "createdAt": "2025-07-02T13:02:59.549Z",
-    "updatedAt": "2025-07-02T13:02:59.549Z"
   }
 ]
