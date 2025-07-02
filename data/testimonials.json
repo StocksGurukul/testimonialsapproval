@@ -36,5 +36,17 @@
     "approved": false,
     "createdAt": "2025-07-02T13:00:36.947Z",
     "updatedAt": "2025-07-02T13:00:36.947Z"
+  },
+  {
+    "id": "1751461379549",
+    "name": "Hridyansh Malik ",
+    "location": "Ludhiana ",
+    "course": "The Great Trader Program",
+    "rating": 5,
+    "text": "Best place to earn while you learn simultaneously. The Great Trader Program enabled me to leverage my knowledge and skills practically. All thanks to Nischey sir for their belief in students, a great teacher and mentor, of course!",
+    "gender": "male",
+    "approved": false,
+    "createdAt": "2025-07-02T13:02:59.549Z",
+    "updatedAt": "2025-07-02T13:02:59.549Z"
   }
 ]
