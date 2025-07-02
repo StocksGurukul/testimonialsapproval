@@ -20,8 +20,8 @@
     "text": "nkjnkj",
     "email": "aditya@gmail.com",
     "gender": "female",
-    "approved": false,
+    "approved": true,
     "createdAt": "2025-07-02T17:26:24.773Z",
-    "updatedAt": "2025-07-02T17:26:24.773Z"
+    "updatedAt": "2025-07-02T17:26:37.824Z"
   }
 ]
