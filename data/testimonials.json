@@ -10,17 +10,5 @@
     "approved": true,
     "createdAt": "2025-05-30T07:11:42.209Z",
     "updatedAt": "2025-05-30T07:12:09.357Z"
-  },
-  {
-    "id": "1764949658298",
-    "name": "laksh",
-    "email": "laksh@gmail.com",
-    "location": "ffff",
-    "course": "The Great Trader Program",
-    "rating": 4,
-    "text": "ghvhgv",
-    "approved": true,
-    "createdAt": "2025-12-05T15:55:13.818Z",
-    "updatedAt": "2025-12-05T15:55:13.818Z"
   }
 ]
